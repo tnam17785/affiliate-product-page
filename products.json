@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Áo thun unisex form rộng",
+    "brand": "Local Brand",
+    "price": "159.000đ",
+    "category": "thoi-trang",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
+    "link": "https://shopee.vn/example-product-1"
+  },
+  {
+    "id": 2,
+    "name": "Quần jean ống rộng nữ",
+    "brand": "Denim Co.",
+    "price": "289.000đ",
+    "category": "thoi-trang",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=400&h=400&fit=crop",
+    "link": "https://shopee.vn/example-product-2"
+  },
+  {
+    "id": 3,
+    "name": "Giày sneaker trắng basic",
+    "brand": "Sneaker Hub",
+    "price": "399.000đ",
+    "category": "thoi-trang",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400&h=400&fit=crop",
+    "link": "https://shopee.vn/example-product-3"
+  },
+  {
+    "id": 4,
+    "name": "Túi xách da PU cao cấp",
+    "brand": "Bag House",
+    "price": "249.000đ",
+    "category": "thoi-trang",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=400&h=400&fit=crop",
+    "link": "https://shopee.vn/example-product-4"
+  },
+  {
+    "id": 5,
+    "name": "Tai nghe Bluetooth không dây",
+    "brand": "SoundMax",
+    "price": "199.000đ",
+    "category": "giai-tri",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+    "link": "https://shopee.vn/example-product-5"
+  },
+  {
+    "id": 6,
+    "name": "Loa Bluetooth mini chống nước",
+    "brand": "BoomBox",
+    "price": "329.000đ",
+    "category": "giai-tri",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=400&fit=crop",
+    "link": "https://shopee.vn/example-product-6"
+  },
+  {
+    "id": 7,
+    "name": "Máy chơi game cầm tay Retro",
+    "brand": "GameZone",
+    "price": "459.000đ",
+    "category": "giai-tri",
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=400&fit=crop",
+    "link": "https://shopee.vn/example-product-7"
+  },
+  {
+    "id": 8,
+    "name": "Đèn LED RGB phòng ngủ",
+    "brand": "LightLab",
+    "price": "129.000đ",
+    "category": "giai-tri",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+    "link": "https://shopee.vn/example-product-8"
+  }
+]

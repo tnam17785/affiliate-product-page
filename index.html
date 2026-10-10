@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shop Affiliate - Sản phẩm gợi ý</title>
+  <meta name="description" content="Trang phân phối sản phẩm affiliate Shopee / TikTok Shop">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1 class="logo">🛍️ Shop Gợi Ý</h1>
+      <p class="tagline">Sản phẩm được chọn lọc từ Shopee & TikTok Shop</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="filters">
+      <button class="filter-btn active" data-category="all">Tất cả</button>
+      <button class="filter-btn" data-category="thoi-trang">👗 Thời trang</button>
+      <button class="filter-btn" data-category="giai-tri">🎮 Giải trí</button>
+    </section>
+
+    <section id="product-grid" class="product-grid">
+      <!-- Products will be rendered by JavaScript -->
+    </section>
+
+    <p id="empty-state" class="empty-state" hidden>Không có sản phẩm nào trong danh mục này.</p>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>© 2026 Shop Gợi Ý · Chỉ là trang giới thiệu sản phẩm affiliate</p>
+      <p class="note">Click vào sản phẩm để xem trên Shopee / TikTok Shop</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
